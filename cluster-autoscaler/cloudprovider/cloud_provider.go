@@ -43,6 +43,8 @@ const (
 	MagnumProviderName = "magnum"
 	// KubemarkProviderName gets the provider name of kubemark
 	KubemarkProviderName = "kubemark"
+	// SakuraCloudProviderName gets the provider name of sakuracloud
+	SakuraCloudProviderName = "sakuracloud"
 )
 
 // CloudProvider contains configuration info and functions for interacting with
